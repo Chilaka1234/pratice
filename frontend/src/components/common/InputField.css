@@ -1,0 +1,26 @@
+.input-group{
+    display:flex;
+    flex-direction:column;
+    margin-bottom:20px;
+}
+
+.input-group label{
+    font-size:15px;
+    font-weight:600;
+    margin-bottom:8px;
+    color:#333;
+}
+
+.input-group input{
+    padding:12px 15px;
+    border:1px solid #dcdcdc;
+    border-radius:8px;
+    outline:none;
+    transition:.3s;
+    font-size:15px;
+}
+
+.input-group input:focus{
+    border-color:#0B5ED7;
+    box-shadow:0 0 0 3px rgba(11,94,215,.15);
+}

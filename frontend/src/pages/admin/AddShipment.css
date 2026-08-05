@@ -1,0 +1,75 @@
+.add-shipment{
+
+background:white;
+
+padding:30px;
+
+border-radius:12px;
+
+box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+.add-shipment h1{
+
+margin-bottom:30px;
+
+color:#1d3557;
+
+}
+
+.add-shipment h2{
+
+margin:25px 0 10px;
+
+font-size:20px;
+
+color:#444;
+
+}
+
+.add-shipment input,
+.add-shipment textarea,
+.add-shipment select{
+
+width:100%;
+
+padding:12px;
+
+margin-bottom:15px;
+
+border:1px solid #ccc;
+
+border-radius:8px;
+
+font-size:15px;
+
+}
+
+.add-shipment textarea{
+
+height:100px;
+
+resize:none;
+
+}
+
+.add-shipment button{
+
+padding:14px 30px;
+
+background:#0d6efd;
+
+color:white;
+
+border:none;
+
+border-radius:8px;
+
+cursor:pointer;
+
+font-size:16px;
+
+margin-top:15px;
+
+}

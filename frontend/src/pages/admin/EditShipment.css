@@ -1,0 +1,79 @@
+.edit-shipment{
+
+background:white;
+
+padding:30px;
+
+border-radius:12px;
+
+box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+.edit-shipment h1{
+
+margin-bottom:30px;
+
+color:#1d3557;
+
+}
+
+.edit-shipment h2{
+
+margin:25px 0 10px;
+
+font-size:20px;
+
+}
+
+.edit-shipment input,
+.edit-shipment textarea,
+.edit-shipment select{
+
+width:100%;
+
+padding:12px;
+
+margin-bottom:15px;
+
+border:1px solid #ccc;
+
+border-radius:8px;
+
+font-size:15px;
+
+}
+
+.edit-shipment textarea{
+
+height:100px;
+
+resize:none;
+
+}
+
+.edit-shipment button{
+
+margin-top:20px;
+
+padding:14px 25px;
+
+background:#198754;
+
+color:white;
+
+border:none;
+
+border-radius:8px;
+
+cursor:pointer;
+
+font-size:16px;
+
+}
+
+.edit-shipment button:hover{
+
+background:#157347;
+
+}

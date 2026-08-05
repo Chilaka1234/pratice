@@ -1,0 +1,93 @@
+.update-container{
+
+background:white;
+
+padding:30px;
+
+border-radius:12px;
+
+box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+.update-container h1{
+
+margin-bottom:30px;
+
+color:#1d3557;
+
+}
+
+.info-box{
+
+background:#eef5ff;
+
+padding:20px;
+
+border-radius:10px;
+
+margin-bottom:25px;
+
+}
+
+.info-box h3{
+
+color:#0d6efd;
+
+margin-bottom:10px;
+
+}
+
+.update-container label{
+
+display:block;
+
+margin-bottom:8px;
+
+font-weight:600;
+
+}
+
+.update-container input,
+.update-container select,
+.update-container textarea{
+
+width:100%;
+
+padding:12px;
+
+margin-bottom:20px;
+
+border:1px solid #ccc;
+
+border-radius:8px;
+
+font-size:15px;
+
+}
+
+.update-container textarea{
+
+height:120px;
+
+resize:none;
+
+}
+
+.update-container button{
+
+padding:14px 25px;
+
+background:#0d6efd;
+
+border:none;
+
+color:white;
+
+font-size:16px;
+
+border-radius:8px;
+
+cursor:pointer;
+
+}
