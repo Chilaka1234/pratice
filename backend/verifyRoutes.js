@@ -1,4 +1,4 @@
-const base = 'http://localhost:5000';
+const base = process.env.BACKEND_URL || 'http://localhost:5000';
 const adminToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhNzFmNWZkMjAyMTFkMTVkMmFjZjBlZCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc4NTkwMzI1NCwiZXhwIjoxNzg2NTA4MDU0fQ.8G5H6-iKVLO1m2tleyj93gTlMoRq4NlbUeS6uSb3ykA';
 
 const log = (label, obj) => {
